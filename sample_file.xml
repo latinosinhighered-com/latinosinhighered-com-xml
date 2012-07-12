@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobs>
+	<job>
+		<id>2342342</id>
+		<action>add</action>
+		<user_id>116555</user_id>
+		<start>2007-08-30</start>
+		<expire>2007-08-30</expire>
+		<position>
+		<![CDATA[Job Title Here]]>
+		</position>
+
+		<company>
+		<![CDATA[Employer Name Here]]>
+		</company>
+
+		<description>
+		<![CDATA[Post Description HTML Here. <br> Die, bugs!]]>
+		</description>
+
+		<url><![CDATA[ http://www.jobtarget.com/c2/job.cfm?job=746302]]></url>
+		<job_type>Academic Affairs</job_type>
+		<job_type2>Academic Affairs</job_type2>
+		<job_type3>Academic Affairs</job_type3>
+		<type>Full-Time</type>
+		<education>Master's Degree</education>
+		<experience>3-5 Years</experience>
+		<travel><![CDATA[20%]]></travel>
+		<salary><![CDATA[ Salary text here ]]></salary>
+		<location>
+			<city>Hersey</city>
+			<state>Pennsylvania</state>
+			<country>United States</country>
+		</location>
+		<allow_applications>false</allow_applications>
+	</job>
+
+	<job>
+		<id>2342342</id>
+		<action>edit</action>
+		<user_id>116555</user_id>
+		<start>2007-08-30</start>
+		<expire>2007-08-30</expire>
+		<position>
+		<![CDATA[Job Title Here]]>
+		</position>
+
+		<company>
+		<![CDATA[Employer Name Here]]>
+		</company>
+
+		<description>
+		<![CDATA[Post Description HTML Here. <br> Die, bugs!]]>
+		</description>
+
+		<url><![CDATA[ http://www.jobtarget.com/c2/job.cfm?job=746302]]></url>
+		<job_type>Academic Affairs</job_type>
+		<job_type2>Academic Affairs</job_type2>
+		<job_type3>Academic Affairs</job_type3>
+		<type>Full-Time</type>
+		<education>Master's Degree</education>
+		<experience>3-5 Years</experience>
+		<travel><![CDATA[20%]]></travel>
+		<salary><![CDATA[ Salary text here ]]></salary>
+		<location>
+			<city>Hersey</city>
+			<state>Pennsylvania</state>
+			<country>United States</country>
+		</location>
+		<allow_applications>true</allow_applications>
+	</job>
+
+	<job>
+		<id>2342342</id>
+		<action>delete</action>
+	</job>
+
+</jobs>
