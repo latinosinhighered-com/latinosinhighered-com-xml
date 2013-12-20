@@ -2,8 +2,10 @@ LATINOSINHIGHERED.com
 XML Job Posting Instructions and Requirements
 
 ---------------------------------------------------------------
-FTP Information (if applicable):
+Hosting Information (if applicable):
 ---------------------------------------------------------------
+
+Feeds can be self-hosted and managed or uploaded to our server on a nightly basis.  A self-hosted solution is ideal. All we need is the URL to your feed.
 
 Host: will be supplied to your seperately
 Username: will be supplied to you separately
