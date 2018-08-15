@@ -17,7 +17,7 @@ XML File Specifics:
 
 Below is a description of the various fields and requirements to successfully post positions via LiHE's XML Process.  
 Please note: The XML file structure should not be altered.
-Also note, all positions require 24-48 business hours for approval
+Also note, all positions are approved immediately and should be reflected in the user account.
 
 ---------------------------------------------------------------
 File Name Requirements:
@@ -38,7 +38,7 @@ Fields:
 ---------------------------------------------------------------
 
 <jobs> - The overall container that is read by our uploader, please do not alter this
-<job> - The job contains 1 job posting, the container should be replicated for each posting and posting action (add, edit, delete, edit)
+<job> - The job contains 1 job posting, the container should be replicated for each posting and posting action (add, edit, delete, check)
 <id> - This is the ID number related to the position, it should be a 7+ digit string or unique ID number assigned by your system.  This field can ONLY be numeric.  Alpha characters and symbols will create errors.
 <user_id> - Your LatinosinHigherEd.com account number.  You can find this by logging into your employer account > choose "Update Account Info".  For agencies, each of your employers should have a unique employer ID number.
 <action> - Defines how the uploader will treat the job.  There are only three options: add, edit, delete, check
