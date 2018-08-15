@@ -41,7 +41,7 @@ Fields:
 <job> - The job contains 1 job posting, the container should be replicated for each posting and posting action (add, edit, delete)
 <id> - This is the ID number related to the position, it should be a 7+ digit string or unique ID number assigned by your system.  This field can ONLY be numeric.  Alpha characters and symbols will create errors.
 <user_id> - Your LatinosinHigherEd.com account number.  You can find this by logging into your employer account > choose "Update Account Info".  For agencies, each of your employers should have a unique employer ID number.
-<action> - Defines how the uploader will treat the job.  There are only three options: add, edit, delete
+<action> - Defines how the uploader will treat the job.  There are only three options: add, edit, delete, check
 <start> - Indicates the posting date, this should be the day the position is being processed.
 <expire> - Indicates the position expiration date, this should be 90 days from the start date.
 <position> - Position/Job Title.  Ex: <![CDATA[Job Title Here]]>
